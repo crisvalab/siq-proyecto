@@ -2,6 +2,6 @@
 
 Soy Cristian Valero Abundio, alumno de la asignatura SIQ025.
 
-Otra línea
+Otra línea.
 
-Otra línea más
+Otra línea más.
